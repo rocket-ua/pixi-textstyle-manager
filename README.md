@@ -225,6 +225,15 @@ If TextStyleManager.currentStyle will be setted to "highlight", for **text1** an
 TextStyleManager.currentStyle = 'highlight';
 ```  
 <img src="https://images2.imgbox.com/b4/c9/orAveCCR_o.png" height=200>  
+
+TextStyleManager can set state directly for Text:  
+```javascript
+TextStyleManager.setTextStyle(text1, "en_gb");
+TextStyleManager.setTextStyle(text2, "ru_ru");
+TextStyleManager.setTextStyle(text1, "highlight");
+```  
+<img src="https://images2.imgbox.com/f9/39/XfLfzjZj_o.png" height=200>  
+
   
 ## P.S.
 For now that's all :)  

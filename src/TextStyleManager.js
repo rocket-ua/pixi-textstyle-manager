@@ -140,8 +140,8 @@ export default new class TextStyleManager {
      * @param {String} styleName stale name in config
      */
     setTextStyle(textField, styleName) {
-        this._getTextField(textField);
-        this._setStyle(textField, styleName);
+        let item = this._getTextField(textField);
+        this._setStyle(item, styleName);
     }
 
     /**

@@ -1,0 +1,32 @@
+{
+  "name": "pixi-textstyle-manager",
+  "version": "1.0.0",
+  "description": "Simple manager for text styles used in PIXI.js",
+  "main": "src/TextStyleManager.js.js",
+  "scripts": {},
+  "keywords": [
+    "PIXI.JS",
+    "PIXI.Text",
+    "Text style",
+    "JavaScript"
+  ],
+  "author": "rocket",
+  "license": "MIT",
+  "devDependencies": {
+    "pixi.js": "^5.0.0"
+  },
+  "files": [
+    "src/*.js",
+    "package.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rocket-ua/FlashLib.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rocket-ua/FlashLib/issues"
+  },
+  "homepage": "https://github.com/rocket-ua/FlashLib#readme"
+}

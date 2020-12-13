@@ -23,10 +23,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rocket-ua/FlashLib.git"
+    "url": "git+https://github.com/rocket-ua/pixi-textstyle-manager.git"
   },
   "bugs": {
-    "url": "https://github.com/rocket-ua/FlashLib/issues"
+    "url": "https://github.com/rocket-ua/pixi-textstyle-manager/issues"
   },
-  "homepage": "https://github.com/rocket-ua/FlashLib#readme"
+  "homepage": "https://github.com/rocket-ua/pixi-textstyle-manager#readme"
 }

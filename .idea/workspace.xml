@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a15f1af-960a-449d-97e7-b5aec7ea8144" name="Default Changelist" comment="" />
+    <list default="true" id="3a15f1af-960a-449d-97e7-b5aec7ea8144" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,11 +39,53 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607865098492</updated>
-      <workItem from="1607865099704" duration="7946000" />
+      <workItem from="1607865099704" duration="8036000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1607873106052</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607873106052</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1303" y="320" key="CommitChangelistDialog2" timestamp="1607873105954">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="1303" y="320" key="CommitChangelistDialog2/0.0.3440.1440@0.0.3440.1440" timestamp="1607873105954" />
+    <state width="3419" height="424" key="GridCell.Tab.0.bottom" timestamp="1607873042877">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3419" height="424" key="GridCell.Tab.0.bottom/0.0.3440.1440@0.0.3440.1440" timestamp="1607873042877" />
+    <state width="3419" height="424" key="GridCell.Tab.0.center" timestamp="1607873042875">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3419" height="424" key="GridCell.Tab.0.center/0.0.3440.1440@0.0.3440.1440" timestamp="1607873042875" />
+    <state width="3419" height="424" key="GridCell.Tab.0.left" timestamp="1607873042874">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3419" height="424" key="GridCell.Tab.0.left/0.0.3440.1440@0.0.3440.1440" timestamp="1607873042874" />
+    <state width="3419" height="424" key="GridCell.Tab.0.right" timestamp="1607873042876">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="3419" height="424" key="GridCell.Tab.0.right/0.0.3440.1440@0.0.3440.1440" timestamp="1607873042876" />
+    <state x="1320" y="457" key="Vcs.Push.Dialog.v2" timestamp="1607873123534">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="1320" y="457" key="Vcs.Push.Dialog.v2/0.0.3440.1440@0.0.3440.1440" timestamp="1607873123534" />
+    <state x="1526" y="638" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607873111962">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="1526" y="638" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3440.1440@0.0.3440.1440" timestamp="1607873111962" />
   </component>
 </project>

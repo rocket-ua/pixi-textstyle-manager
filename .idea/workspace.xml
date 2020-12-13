@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a15f1af-960a-449d-97e7-b5aec7ea8144" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TextStyleManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/TextStyleManager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607865098492</updated>
-      <workItem from="1607865099704" duration="8508000" />
+      <workItem from="1607865099704" duration="9157000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1607873106052</created>
@@ -57,7 +55,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607873190675</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="readme fixes">
+      <created>1607873709180</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607873709180</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,13 +70,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="readme fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme fixes" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1303" y="320" key="CommitChangelistDialog2" timestamp="1607873190585">
+    <state x="1303" y="320" key="CommitChangelistDialog2" timestamp="1607873709073">
       <screen x="0" y="0" width="3440" height="1440" />
     </state>
-    <state x="1303" y="320" key="CommitChangelistDialog2/0.0.3440.1440@0.0.3440.1440" timestamp="1607873190585" />
+    <state x="1303" y="320" key="CommitChangelistDialog2/0.0.3440.1440@0.0.3440.1440" timestamp="1607873709073" />
     <state width="3419" height="424" key="GridCell.Tab.0.bottom" timestamp="1607873042877">
       <screen x="0" y="0" width="3440" height="1440" />
     </state>
